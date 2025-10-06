@@ -1,6 +1,5 @@
 import ProductCard from "./ProductCard"
 
-
 const ProductList = ({ products }) => {
   return (
     <div className="bg-white">
